@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠️ Skills
+### Languages
+### Front-End Development
+### Back-End Development
+### Database
+### Testing
+## 🖥️ Workspace Setup
