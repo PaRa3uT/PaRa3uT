@@ -24,6 +24,7 @@ VueJS, Vuepress, Nuxt, Quasar
 
 ### Back-End Development
 ![fast-api](https://img.shields.io/badge/Fast_Api-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,4 +35,5 @@ VueJS, Vuepress, Nuxt, Quasar
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🖥️ Workspace Setup
+![phenom-925](https://img.shields.io/badge/AMD-Phenom%20II%20X4%20925-0071C5?style=for-the-badge&logo=AMD&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
