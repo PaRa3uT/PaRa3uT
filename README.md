@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Front-End Development
-VueJS, Vuepress, Nuxt, Quasar
+VueJS, Vuepress, Nuxt, Quasar, TailwindCSS
 
 ### Back-End Development
 ![fast-api](https://img.shields.io/badge/Fast_Api-009688?style=for-the-badge&logo=fastapi&logoColor=white)
