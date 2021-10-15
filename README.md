@@ -42,4 +42,4 @@ Vuepress, Nuxt, TailwindCSS
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🔗 Links
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-green?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/6289493)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-3776AB?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/6289493)
