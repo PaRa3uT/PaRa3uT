@@ -40,3 +40,6 @@ Vuepress, Nuxt, TailwindCSS
 ## 🖥️ Workspace Setup
 ![phenom-925](https://img.shields.io/badge/AMD-Phenom%20II%20X4%20925-0071C5?style=for-the-badge&logo=AMD&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 🔗 Links
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-green?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/6289493)
