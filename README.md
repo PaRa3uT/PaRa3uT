@@ -38,7 +38,8 @@ Vuepress, Nuxt, TailwindCSS
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🖥️ Workspace Setup
-![phenom-925](https://img.shields.io/badge/AMD-Phenom%20II%20X4%20925-0071C5?style=for-the-badge&logo=AMD&logoColor=white)
+<!-- ![phenom-925](https://img.shields.io/badge/AMD-Phenom%20II%20X4%20925-0071C5?style=for-the-badge&logo=AMD&logoColor=white)  -->
+![](https://img.shields.io/badge/AMD-Ryzen%203%203600-0071C5?style=for-the-badge&logo=AMD&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🔗 Links
