@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![VueJS](https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vuedotjs)
 ![Vuetify](https://img.shields.io/badge/vuetify-blue?style=for-the-badge&logo=vuetify)
 ![Quasar](https://img.shields.io/badge/quasar-blue?style=for-the-badge&logo=quasar)
-Vuepress, Nuxt, TailwindCSS
+Vuepress
 
 ### Back-End Development
 ![fast-api](https://img.shields.io/badge/Fast_Api-009688?style=for-the-badge&logo=fastapi&logoColor=white)
